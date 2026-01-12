@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         New Userscript
+// @name         This is a test script
 // @namespace    http://tampermonkey.net/
 // @version      2026-01-11
 // @description  try to take over the world!
